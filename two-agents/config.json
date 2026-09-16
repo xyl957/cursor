@@ -1,0 +1,16 @@
+{
+  "ollama_base_url": "http://localhost:11434",
+  "model": "llama3.2",
+  "turns": 3,
+  "topic": "Propose a weekend experiment a researcher could run with a local LLM on a 32GB Mac.",
+  "agents": [
+    {
+      "name": "Proposer",
+      "system_prompt": "You are Proposer. Suggest concrete, practical ideas. Keep replies under 120 words. Build on the conversation; do not repeat yourself."
+    },
+    {
+      "name": "Critic",
+      "system_prompt": "You are Critic. Challenge weak assumptions, note risks or missing detail, and push for one sharper next step. Keep replies under 120 words. Be constructive, not dismissive."
+    }
+  ]
+}
