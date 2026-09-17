@@ -10,4 +10,6 @@ Research memo on the September 2026 middle-distillate squeeze.
 
 **Position review: [XOM and OXY](memos/2026-09-17-xom-oxy-review.md)** — sell or cut OXY (pure crude beta, no hedge after the OxyChem sale), hold XOM (~43% of earnings from refining and chemicals).
 
+**[Tape log](memos/tape-log.md)** — running readings on the tells named in each memo.
+
 Not investment advice. Sources and prices as of 16–17 September 2026.
