@@ -149,11 +149,11 @@ CF Industries is the 2022 fertilizer echo (European gas at $93 kills European ur
 
 ## Positioning
 
-- **Core:** PBF, sized for turnaround and operational risk. This is a winter-heating-oil equity, not a 12-month compounder thesis.
+- **Core:** PBF, sized for turnaround and operational risk. The entry is winter heating oil; on the 2027 capacity arithmetic the earnings runway is longer, which argues for pairing PBF’s torque with a quality downstream name rather than running it alone across multiple turnaround cycles.
 - **Satellite:** STNG (or HAFN) only while the USGC-Europe arb is legal and open.
 - **If you already own VLO/MPC:** trail, do not add. They remain the highest-quality way to **hold** record cracks; they are not the next purchase.
 - **Hedge:** a US export-ban headline is short STNG, mixed-to-up PBF East Coast cracks, up European gasoil. Crude is not the hedge.
-- **Time window:** harvest now through Q1 2027 heating. Goldman’s 2027 margin call is the structural floor; the trade is the next 90–180 days of tank math.
+- **Time window:** through 2027, not just this winter. Goldman’s 2027 margin call is the structural floor and OPEC’s capacity table shows only 0.6 mb/d of distillation additions arriving in 2027; the next 90–180 days of tank math is the entry, not the whole trade. The terminal risk is the 2028 tanker delivery wave and the two diplomatic off-ramps. See [the duration memo](2026-09-17-duration-and-yemen.md).
 
 ## Sources (16–17 September 2026)
 

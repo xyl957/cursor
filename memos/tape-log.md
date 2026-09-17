@@ -1,6 +1,28 @@
 # Tape log
 
-Running readings on the tells named in the [diesel thesis](2026-09-17-diesel-shortage.md), the [export-ban scenario](2026-09-17-export-ban-scenario.md), and the [XOM/OXY review](2026-09-17-xom-oxy-review.md). Newest first.
+Running readings on the tells named in the [diesel thesis](2026-09-17-diesel-shortage.md), the [export-ban scenario](2026-09-17-export-ban-scenario.md), the [XOM/OXY review](2026-09-17-xom-oxy-review.md), and the [duration memo](2026-09-17-duration-and-yemen.md). Newest first.
+
+---
+
+## Thursday 17 September 2026 — evening revision
+
+**The crude-workaround premise broke, and I am marking it.**
+
+The morning read said the crude leg was being actively repaired while the product leg stayed tight, and used that to prefer the crack over the barrel. The Yemen picture makes the first half of that much weaker:
+
+- Houthis hold **Perim Island** at the centre of Bab el-Mandeb, plus Mokha and the Hanish chain, taken 10–11 September. They control Yemen's entire Red Sea coast.
+- **East-West pipeline still shut** since the 10 September pumping-station strike. Windward: it carried ~92% of Saudi seaborne crude exports via Yanbu by June, about 4 mb/d, roughly 4% of global supply. Yanbu has 5–7 days of export cover.
+- **Saudi supply is 6 mb/d, down 2.3 mb/d — the lowest in three decades** (IEA). Red Sea loadings fell 3.8 → 2.2 mb/d in August.
+- Saudi crude to South Korea now takes **54 days against 24** (Kpler). Bab el-Mandeb crossings halved to 15/day; Suez is at 40.8/day against 73.7 in 2023.
+- No US or European military backing, and Washington has not joined Riyadh's own maritime coalition. MbS went to Cairo instead.
+
+So Saudi Arabia has lost or impaired Hormuz, Bab el-Mandeb **and** the pipeline that was the answer to both. The 16 September "half capacity within days, full within six weeks" repair guidance is now the single most important thing to verify, because the thesis leaned on it.
+
+**What changes:** OXY goes from sell to hold (the premium is not deflating on schedule). Window extends through 2027 on Goldman's $63/bbl 2027 diesel call and OPEC's 0.6 mb/d of 2027 distillation additions. Tanker leg gets better but acquires a 2028 expiry — the orderbook is 19% of fleet, LR2 at 20%, with 90% of 2026 orders delivering in 2028–29.
+
+**What does not change:** PBF and the preference for owning refining over crude. XOM stays core precisely because it earns on both legs in a long war.
+
+Full reasoning in the [duration memo](2026-09-17-duration-and-yemen.md).
 
 ---
 

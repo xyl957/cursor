@@ -1,9 +1,11 @@
 # Position review: XOM and OXY
 
 **Date:** 17 September 2026
-**Companion to:** [2026-09-17-diesel-shortage.md](2026-09-17-diesel-shortage.md) · [2026-09-17-export-ban-scenario.md](2026-09-17-export-ban-scenario.md)
+**Companion to:** [2026-09-17-diesel-shortage.md](2026-09-17-diesel-shortage.md) · [2026-09-17-export-ban-scenario.md](2026-09-17-export-ban-scenario.md) · [2026-09-17-duration-and-yemen.md](2026-09-17-duration-and-yemen.md)
 
-**Call: sell or cut OXY. Hold XOM, but don't add.**
+> **Revised 17 September 2026 (evening): the OXY call is downgraded from sell to hold, trim only into strength.** The Houthi seizure of Perim Island and the shutdown of the East-West pipeline mean Saudi Arabia has now lost or impaired every export route at once, with supply at a three-decade low of 6 mb/d. The "crude has workarounds" premise below is materially weaker than when this was written. The preference for XOM stands, but the reason is now **dominance** — XOM earns in both states of the world, OXY in one — and not a view that crude falls. Sections 2 and 6 of the [duration memo](2026-09-17-duration-and-yemen.md) carry the revision. The original argument is preserved unedited below.
+
+**Original call: sell or cut OXY. Hold XOM, but don't add.**
 
 They look like the same trade and they are not. One of them owns the bottleneck. The other owns the thing with workarounds.
 
@@ -76,6 +78,8 @@ Note also that Hormuz has been a *negative* for Exxon's upstream — Middle East
 ## What to do
 
 **Sell OXY, or cut it hard.** You have a ~45% year-to-date gain in a name that is now a single-variable bet on a war premium the President is actively working to deflate, with the sell-side clustered on hold and at least one target below spot. If you want to keep a toe in, the disciplined re-entry is nearer **$55**, where the mid-cycle math stops requiring crude to cooperate. There is likely a meaningful taxable gain to manage — worth checking the lot-level basis before you size the trade.
+
+> **Superseded.** Hold rather than sell, and trim only into strength. The **$55** re-entry assumed a mid-cycle $65–70 WTI base; with Saudi export capacity impaired on all three routes, that number should not be treated as a live target. The single-variable criticism of OXY survives — it is still the reason to prefer XOM — but "the premium deflates" no longer does the work it did in the morning. Selling was not an error; it took a large gain off a concentrated position. Holding is now the better call.
 
 **Hold XOM.** It is the cheapest way to stay long the diesel crack inside a mega-cap balance sheet, and it is the position that survives a Russia deal. But it is not the next buy: the multiple is full, the sector has outrun it, and it wears the political target.
 
