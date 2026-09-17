@@ -78,6 +78,8 @@ Do **not** buy HO futures to express this. The backwardation will eat a long on 
 
 1. **It sits on the next print.** Delaware City (180 kb/d, Nelson 13.6) and Paulsboro on the Delaware River are an East Coast heavy-sour system that makes heating oil, ULSD, and jet into PADD 1. Toledo supplies the Midwest freight market. Chalmette is the Gulf export/coker. This is the listed heating-oil refiner, not a Gulf export machine that has already been bid.
 
+   Reinforcing this: PADD 1 runs ~85% utilization and cannot feed itself, and its most important outside supplier is **down right now** — Irving Oil's Saint John refinery (~320 kb/d, Canada's largest and a key Northeast distillate source) is in a 75-day "Operation Osprey" turnaround from early September to mid-November 2026. The Northeast enters heating season short of its usual import backstop.
+
 2. **Torque is still in the multiple.** Q2 2026 adjusted fully-converted EPS was **$6.22**. At $76, the stock is a mid-single-digit multiple of a single strong quarter annualized — versus VLO at $403 after a 140% run. PBF also cut net debt by **$1.4 billion** in Q2. Martinez is back at full rates after the February 2025 fire. The 2025 distressed-refiner discount has not fully left the stock.
 
 3. **Heavy crude is the right feedstock.** The barrels being lost (Gulf medium/sour, Russian Urals/diesel) are the barrels that make distillate. Venezuelan extra-heavy, if Chevron and Continental actually move it, is a **coker** diet. Delaware City and Chalmette are built for that slate. A Continental-PDVSA MOU does not put oil in tanks this winter, but it is the correct direction of travel for PBF’s complexity, not for a Bakken producer.
@@ -105,7 +107,7 @@ USGC-UK Continent MR freight was **$50.36/mt** on 15 September. The USGC-Europe 
 
 STNG owns 75 product tankers (25 LR2 / 36 MR / 14 Handymax). LR2s are the long-haul diesel horse. Hafnia (HAFN, $9.71) is the larger, slower version of the same trade.
 
-**Hard invalidation for STNG:** a US diesel export ban. Thune is “open.” Burgum and the White House are not. Interior has already said a ban would not lower prices. If a bill gets a number and a committee, sell the tankers first, keep the East Coast refiner.
+**On a US diesel export ban:** Thune is “open.” Burgum and the White House are not. This splits the fleet rather than killing the name — it removes the USGC short-haul MR trades but forces Europe and Latin America onto long-haul Indian and Asian barrels, which is LR2 work. See [the export-ban scenario memo](2026-09-17-export-ban-scenario.md). Prefer STNG’s LR2 weighting over MR-heavy Hafnia for exactly this reason.
 
 ## What not to buy
 
@@ -143,7 +145,7 @@ CF Industries is the 2022 fertilizer echo (European gas at $93 kills European ur
 - Martinez-class operational failure, or Q4 turnarounds slip and strand the name through peak cracks.
 - A ceasefire plus a visible Hormuz reopening **and** a Russian export restart in the same window. One of those is not enough; the stack is three sources.
 
-**Kill the STNG long if:** Congress or the White House moves from “open to exploring” to a real diesel export restriction.
+**Kill the whole book if:** a Russia–Ukraine energy truce is verified **and** refined-product sanctions relief is attached. Peskov named that price on 15 September. Restarting Kirishi, NORSI, Volgograd and Taneco is the only development that loosens global diesel structurally — an export ban would tighten it. Watch UNGA, 21–23 September. This, not Washington’s export-ban talk, is the real tail risk.
 
 ## Positioning
 
